@@ -25,7 +25,6 @@ Group:		System/Libraries
 URL:		http://www.ltsp.org/
 Source0:	http://ltsp.org/tarballs/%{realname}.tar.bz2
 BuildRequires:	uClibc uClibc-devel uClibc-static-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 Popt is a C library for parsing command line parameters.  Popt was
