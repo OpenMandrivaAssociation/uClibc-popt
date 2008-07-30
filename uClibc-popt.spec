@@ -19,7 +19,7 @@
 Summary:	A C library for parsing command line parameters
 Name:		uClibc-%{realname}
 Version:	1.6.3
-Release:	%mkrel 4
+Release:	%mkrel 6
 License:	BSD
 Group:		System/Libraries
 URL:		http://www.ltsp.org/
